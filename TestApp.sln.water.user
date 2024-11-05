@@ -1,0 +1,80 @@
+﻿<Settings>
+  <Setting Name="DebugPaneActiveTab" Type="Integer">0</Setting>
+  <Setting Name="SelectedNode" Type="String">file:///C:/Users/shmax/Documents/RemObjects%20Software/Elements/Water/TestApp/TestApp.elements_file:///C:/Users/shmax/Documents/RemObjects%20Software/Elements/Water/TestApp/Program.cs</Setting>
+  <Setting Name="FolderExpanded_TestApp_file:///C:/Users/shmax/Documents/RemObjects%20Software/Elements/Water/TestApp/TestApp.elements_file:///C:/Users/shmax/Documents/RemObjects%20Software/Elements/Water/TestApp/" Type="Boolean">True</Setting>
+  <Setting Name="ActiveProject" Type="String">TestApp</Setting>
+  <Setting Name="ActiveTarget" Type="String">Echoes</Setting>
+  <Setting Name="NavigationPaneActiveTab" Type="Integer">0</Setting>
+  <Setting Name="FolderExpanded_AppForTesting_file:///C:/Users/shmax/Documents/RemObjects%20Software/Elements/Water/TestApp/AppForTesting/AppForTesting.elements_file:///C:/Users/shmax/Documents/RemObjects%20Software/Elements/Water/TestApp/AppForTesting/" Type="Boolean">True</Setting>
+  <Setting Name="Window_X" Type="Double">-32000.0000</Setting>
+  <Setting Name="Window_Y" Type="Double">-32000.0000</Setting>
+  <Setting Name="Window_Width" Type="Double">1734.0000</Setting>
+  <Setting Name="Window_Height" Type="Double">1399.0000</Setting>
+  <Setting Name="Window_Fullscreen" Type="Boolean">False</Setting>
+  <Setting Name="ViewMetaData" Type="Dictionary">
+    <Setting Name="file:///C:/Users/shmax/Documents/RemObjects%20Software/Elements/Water/TestApp/TestApp.elements_file:///C:/Users/shmax/Documents/RemObjects%20Software/Elements/Water/TestApp/Program.cs" Type="Dictionary">
+      <Setting Name="CursorX" Type="Integer">46</Setting>
+      <Setting Name="CursorY" Type="Integer">25</Setting>
+      <Setting Name="SelectionStartLine" Type="Integer">-1</Setting>
+      <Setting Name="SelectionStartColumn" Type="Integer">-1</Setting>
+      <Setting Name="SelectionEndLine" Type="Integer">-1</Setting>
+      <Setting Name="SelectionEndColumn" Type="Integer">-1</Setting>
+      <Setting Name="SelectionIsLinear" Type="Boolean">True</Setting>
+      <Setting Name="SelectionCursorUndecided" Type="Boolean">False</Setting>
+      <Setting Name="ScrollX" Type="Double">0.0000</Setting>
+      <Setting Name="ScrollY" Type="Double">0.0000</Setting>
+    </Setting>
+    <Setting Name="file:///C:/Users/shmax/Documents/RemObjects%20Software/Elements/Water/TestApp/AppForTesting/AppForTesting.elements_file:///C:/Users/shmax/Documents/RemObjects%20Software/Elements/Water/TestApp/AppForTesting/Program.cs" Type="Dictionary">
+      <Setting Name="CursorX" Type="Integer">1</Setting>
+      <Setting Name="CursorY" Type="Integer">15</Setting>
+      <Setting Name="SelectionStartLine" Type="Integer">-1</Setting>
+      <Setting Name="SelectionStartColumn" Type="Integer">0</Setting>
+      <Setting Name="SelectionEndLine" Type="Integer">0</Setting>
+      <Setting Name="SelectionEndColumn" Type="Integer">0</Setting>
+      <Setting Name="SelectionIsLinear" Type="Boolean">True</Setting>
+      <Setting Name="SelectionCursorUndecided" Type="Boolean">False</Setting>
+      <Setting Name="ScrollX" Type="Double">0.0000</Setting>
+      <Setting Name="ScrollY" Type="Double">0.0000</Setting>
+    </Setting>
+    <Setting Name="file:///C:/Users/shmax/Documents/RemObjects%20Software/Elements/Water/TestApp/AppForTesting/AppForTesting.elements_file:///C:/Users/shmax/Documents/RemObjects%20Software/Elements/Water/TestApp/AppForTesting/ClassWithData.cs" Type="Dictionary">
+      <Setting Name="CursorX" Type="Integer">18</Setting>
+      <Setting Name="CursorY" Type="Integer">2</Setting>
+      <Setting Name="SelectionStartLine" Type="Integer">2</Setting>
+      <Setting Name="SelectionStartColumn" Type="Integer">17</Setting>
+      <Setting Name="SelectionEndLine" Type="Integer">2</Setting>
+      <Setting Name="SelectionEndColumn" Type="Integer">30</Setting>
+      <Setting Name="SelectionIsLinear" Type="Boolean">True</Setting>
+      <Setting Name="SelectionCursorUndecided" Type="Boolean">True</Setting>
+      <Setting Name="ScrollX" Type="Double">0.0000</Setting>
+      <Setting Name="ScrollY" Type="Double">0.0000</Setting>
+    </Setting>
+    <Setting Name="file:///C:/Users/shmax/Documents/RemObjects%20Software/Elements/Water/TestApp/AppForTesting/AppForTesting.elements_file:///C:/Users/shmax/Documents/RemObjects%20Software/Elements/Water/TestApp/AppForTesting/IClassWithData.cs" Type="Dictionary">
+      <Setting Name="CursorX" Type="Integer">9</Setting>
+      <Setting Name="CursorY" Type="Integer">5</Setting>
+      <Setting Name="SelectionStartLine" Type="Integer">5</Setting>
+      <Setting Name="SelectionStartColumn" Type="Integer">9</Setting>
+      <Setting Name="SelectionEndLine" Type="Integer">5</Setting>
+      <Setting Name="SelectionEndColumn" Type="Integer">45</Setting>
+      <Setting Name="SelectionIsLinear" Type="Boolean">True</Setting>
+      <Setting Name="SelectionCursorUndecided" Type="Boolean">True</Setting>
+      <Setting Name="ScrollX" Type="Double">0.0000</Setting>
+      <Setting Name="ScrollY" Type="Double">0.0000</Setting>
+    </Setting>
+    <Setting Name="C:\Users\shmax\Documents\RemObjects Software\Elements\Water\TestApp\TestApp.sln---BuildLog" Type="Dictionary">
+      <Setting Name="CursorX" Type="Integer">20</Setting>
+      <Setting Name="CursorY" Type="Integer">10</Setting>
+      <Setting Name="SelectionStartLine" Type="Integer">-1</Setting>
+      <Setting Name="SelectionStartColumn" Type="Integer">-1</Setting>
+      <Setting Name="SelectionEndLine" Type="Integer">-1</Setting>
+      <Setting Name="SelectionEndColumn" Type="Integer">-1</Setting>
+      <Setting Name="SelectionIsLinear" Type="Boolean">True</Setting>
+      <Setting Name="SelectionCursorUndecided" Type="Boolean">False</Setting>
+      <Setting Name="ScrollX" Type="Double">0.0000</Setting>
+      <Setting Name="ScrollY" Type="Double">0.0000</Setting>
+      <Setting Name="ScrolledToBottom" Type="Boolean">True</Setting>
+    </Setting>
+  </Setting>
+  <Setting Name="FinalOutputFileXml_file:///C:/Users/shmax/Documents/RemObjects%20Software/Elements/Water/TestApp/AppForTesting/AppForTesting.elements_Debug" Type="String">C:\Users\shmax\AppData\Local\RemObjects Software\EBuild\Obj\F191F2467F31B6F6EFDA639A1925E626945D7916\Debug\FinalOutput.xml</Setting>
+  <Setting Name="FinalOutputFileXml_file:///C:/Users/shmax/Documents/RemObjects%20Software/Elements/Water/TestApp/TestApp.elements_Debug" Type="String">C:\Users\shmax\AppData\Local\RemObjects Software\EBuild\Obj\100A4CEE243BA0037C93E4271F84E62C1E9D886C\Debug\FinalOutput.xml</Setting>
+  <Setting Name="DebuggerSplitterCollapsed" Type="Boolean">False</Setting>
+</Settings>

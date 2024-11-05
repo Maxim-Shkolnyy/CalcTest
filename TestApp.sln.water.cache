@@ -1,0 +1,83 @@
+﻿<Cache>
+  <BuildMessages>
+    <Message>
+      <URL>file:///C:/Users/shmax/Documents/RemObjects%20Software/Elements/Water/TestApp/Program.cs</URL>
+      <Line>10</Line>
+      <Index>0</Index>
+      <Message>Unknown type "ClassWithData"</Message>
+      <ShortMessage>Unknown type</ShortMessage>
+      <Code>E28</Code>
+      <StartColumn>31</StartColumn>
+      <EndColumn>44</EndColumn>
+      <LineInBuildLog>6</LineInBuildLog>
+      <Type>0</Type>
+      <ProjectID>{f4edd23a-121f-4fae-9e1e-9f56b5049510}</ProjectID>
+      <Target>Echoes</Target>
+    </Message>
+    <Message>
+      <URL>file:///C:/Users/shmax/Documents/RemObjects%20Software/Elements/Water/TestApp/Program.cs</URL>
+      <Line>10</Line>
+      <Index>1</Index>
+      <Message>Type expected</Message>
+      <ShortMessage>Type expected</ShortMessage>
+      <Code>E130</Code>
+      <StartColumn>23</StartColumn>
+      <EndColumn>28</EndColumn>
+      <LineInBuildLog>7</LineInBuildLog>
+      <Type>0</Type>
+      <ProjectID>{f4edd23a-121f-4fae-9e1e-9f56b5049510}</ProjectID>
+      <Target>Echoes</Target>
+    </Message>
+    <Message>
+      <URL>file:///C:/Users/shmax/Documents/RemObjects%20Software/Elements/Water/TestApp/Program.cs</URL>
+      <Line>17</Line>
+      <Index>2</Index>
+      <Message>Unknown type "ClassWithData"</Message>
+      <ShortMessage>Unknown type</ShortMessage>
+      <Code>E28</Code>
+      <StartColumn>31</StartColumn>
+      <EndColumn>44</EndColumn>
+      <LineInBuildLog>8</LineInBuildLog>
+      <Type>0</Type>
+      <ProjectID>{f4edd23a-121f-4fae-9e1e-9f56b5049510}</ProjectID>
+      <Target>Echoes</Target>
+    </Message>
+    <Message>
+      <URL>file:///C:/Users/shmax/Documents/RemObjects%20Software/Elements/Water/TestApp/Program.cs</URL>
+      <Line>17</Line>
+      <Index>3</Index>
+      <Message>Type expected</Message>
+      <ShortMessage>Type expected</ShortMessage>
+      <Code>E130</Code>
+      <StartColumn>23</StartColumn>
+      <EndColumn>28</EndColumn>
+      <LineInBuildLog>9</LineInBuildLog>
+      <Type>0</Type>
+      <ProjectID>{f4edd23a-121f-4fae-9e1e-9f56b5049510}</ProjectID>
+      <Target>Echoes</Target>
+    </Message>
+  </BuildMessages>
+  <BreakpointsEnabled>True</BreakpointsEnabled>
+  <BreakpointsEnabledWhenTesting>True</BreakpointsEnabledWhenTesting>
+  <UseBreakpointsFromAllSolutions>False</UseBreakpointsFromAllSolutions>
+  <BuildActivity>4</BuildActivity>
+  <BuildActivityGoal>Build</BuildActivityGoal>
+  <BuildActivityFailedTask />
+  <BuildActivityFailedProject />
+  <BuildLog>D:\Work\Program\Elements\Bin\EBuild.exe --logger:fire "C:\Users\shmax\Documents\RemObjects Software\Elements\Water\TestApp\TestApp.sln" --configuration:Debug --build --setting:TreatFixableErrorsAsWarnings=True "--xml:C:\Users\shmax\Documents\RemObjects Software\Elements\Water\TestApp\obj\TestApp.water.xml" --goal:f4edd23a-121f-4fae-9e1e-9f56b5049510;Echoes --verbosity:normal
+RemObjects EBuild. An open source build engine for Elements and beyond.
+Copyright RemObjects Software 2016-2024. All Rights Reserved. Created by marc hoffman.
+Version 12.0.0.2951 (develop) built on bajor, 20241025-151920. Commit 9963d7a.
+
+E: Unknown type "ClassWithData" [C:\Users\shmax\Documents\RemObjects Software\Elements\Water\TestApp\Program.cs (10)]
+E: Type expected [C:\Users\shmax\Documents\RemObjects Software\Elements\Water\TestApp\Program.cs (10)]
+E: Unknown type "ClassWithData" [C:\Users\shmax\Documents\RemObjects Software\Elements\Water\TestApp\Program.cs (17)]
+E: Type expected [C:\Users\shmax\Documents\RemObjects Software\Elements\Water\TestApp\Program.cs (17)]
+   Project 'TestApp' failed to build.
+   Solution 'TestApp' failed to build project 'TestApp'.</BuildLog>
+  <ProfilerResults />
+  <NavigationStack>
+    <Backward />
+    <Forward />
+  </NavigationStack>
+</Cache>

@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# RemObjects Water
+Project("{656346d9-4656-40da-a068-22d5425d4639}") = "AppForTesting", "AppForTesting\AppForTesting.elements", "{641b8d4f-bc30-4f5b-9ce7-60556966bbaa}"
+EndProject
+Project("{656346d9-4656-40da-a068-22d5425d4639}") = "TestApp", "TestApp.elements", "{f4edd23a-121f-4fae-9e1e-9f56b5049510}"
+	ProjectSection(ProjectDependencies) = postProject
+		{641b8d4f-bc30-4f5b-9ce7-60556966bbaa} = {641b8d4f-bc30-4f5b-9ce7-60556966bbaa}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{641b8d4f-bc30-4f5b-9ce7-60556966bbaa}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{641b8d4f-bc30-4f5b-9ce7-60556966bbaa}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{641b8d4f-bc30-4f5b-9ce7-60556966bbaa}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{641b8d4f-bc30-4f5b-9ce7-60556966bbaa}.Release|AnyCPU.Build.0 = Release|AnyCPU
+		{f4edd23a-121f-4fae-9e1e-9f56b5049510}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{f4edd23a-121f-4fae-9e1e-9f56b5049510}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{f4edd23a-121f-4fae-9e1e-9f56b5049510}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{f4edd23a-121f-4fae-9e1e-9f56b5049510}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
